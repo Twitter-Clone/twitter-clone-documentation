@@ -55,8 +55,8 @@ Github
 You can find our complete list of user stories [here](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/docs/UserStories.md).
 
 ### ENTITY RELATIONAL DIAGRAM 
-![ERD](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/img/ERD.jpg)
+![ERD](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/img/ERD.jpg)
 
 ### DATA DICTIONARY
-![DD](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/img/DataDictionary.jpg)
+![DD](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/img/DataDictionary.jpg)
 
