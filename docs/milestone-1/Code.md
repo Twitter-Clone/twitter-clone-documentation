@@ -7,7 +7,7 @@
                 [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-1/Code.md), 
                 [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-1/Test.md)
 - File: Milestone-1/Code.md
-- URL: https://github.com/Twitter-Clone/twitter-clone-documentation/edit/master/docs/milestone-1/Code.md
+- URL: https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-1/Code.md
 - Git Repo: twitter-clone-api
 
 ### Milestone 1. Project Plan Complete
