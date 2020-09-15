@@ -2,7 +2,7 @@
 ### Role: Project Manager - Requirements
 Goal: Project Charter
 
-Document: [Requirements.md](https://github.com/maknop/twitter-clone-api/blob/master/docs/milestone-1/Requirements.md)
+Document: [Requirements.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-1/Requirements.md)
 
 - Business proposition
 - Project scope & budget
@@ -12,7 +12,7 @@ Document: [Requirements.md](https://github.com/maknop/twitter-clone-api/blob/mas
 ### Role: Designer - Design
 Goal: Technology selection
 
-Document: [Design.md](https://github.com/maknop/twitter-clone-api/blob/master/docs/milestone-1/Design.md)
+Document: [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-1/Design.md)
 
 * Select Development Tools
 * Infrastructure - Frameworks & Tools
@@ -23,7 +23,7 @@ Document: [Design.md](https://github.com/maknop/twitter-clone-api/blob/master/do
 ### Role: Programmer - Code
 Goal: Version control
 
-Document: [Code.md](https://github.com/maknop/twitter-clone-api/blob/master/docs/milestone-1/Code.md)
+Document: [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-1/Code.md)
 
 - Create Frontend & Backend Micro-service  
 - Create our Server Instance 
@@ -32,7 +32,7 @@ Document: [Code.md](https://github.com/maknop/twitter-clone-api/blob/master/docs
 ### Role: QA Engineer - Test
 Goal: Test Plan
 
-Document: [Test.md](https://github.com/maknop/twitter-clone-api/blob/master/docs/milestone-1/Test.md)
+Document: [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-1/Test.md)
 
 - Outline of testing that will be used
 - Setup structure for testing

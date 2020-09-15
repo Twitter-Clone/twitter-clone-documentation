@@ -2,7 +2,7 @@
 ### Role: Project Manager - Requirements
 Goal: < Goal of this milestone >
 
-Document: [Requirements.md](https://github.com/maknop/twitter-clone-api/blob/master/docs/milestone-2/Requirements.md)
+Document: [Requirements.md](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/docs/milestone-2/Requirements.md)
 
 - Business proposition
 - Project scope & budget
@@ -12,7 +12,7 @@ Document: [Requirements.md](https://github.com/maknop/twitter-clone-api/blob/mas
 ### Role: Designer - Design
 Goal: Software Architecture
 
-Document: [Design.md](https://github.com/maknop/twitter-clone-api/blob/master/docs/milestone-2/Design.md)
+Document: [Design.md](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/docs/milestone-2/Design.md)
 
 - Apps = Data + Views
 - Data models
@@ -21,13 +21,13 @@ Document: [Design.md](https://github.com/maknop/twitter-clone-api/blob/master/do
 ### Role: Programmer - Code
 Goal: < Goal of this milestone >
 
-Document: [Code.md](https://github.com/maknop/twitter-clone-api/blob/master/docs/milestone-2/Code.md)
+Document: [Code.md](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/docs/milestone-2/Code.md)
 
 < Sections of Document >
 
 ### Role: QA Engineer - Test
 Goal: < Goal of this milestone >
 
-Document: [Test.md](https://github.com/maknop/twitter-clone-api/blob/master/docs/milestone-2/Test.md)
+Document: [Test.md](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/docs/milestone-2/Test.md)
 
 < Sections of Document >
