@@ -1,13 +1,13 @@
 # Milestone 1. Project Plan Complete - Code
 
 ## PROJECT INFO
-- [Software Project Plan - Twitter Clone](https://github.com/maknop/twitter-clone-api)
-- Other Roles - [Requirements.md](https://github.com/maknop/twitter-clone-documentation/blob/master/docs/milestone-1/Requirements.md), 
-                [Design.md](https://github.com/maknop/twitter-clone-documentation/blob/master/docs/milestone-1/Design.md), 
-                [Code.md](https://github.com/maknop/twitter-clone-documentation/blob/master/docs/milestone-1/Code.md), 
-                [Test.md](https://github.com/maknop/twitter-clone-documentation/blob/master/docs/milestone-1/Test.md)
+- [Software Project Plan - Twitter Clone](https://github.com/Twitter-Clone/twitter-clone-api)
+- Other Roles - [Requirements.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-1/Requirements.md), 
+                [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-1/Design.md), 
+                [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-1/Code.md), 
+                [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-1/Test.md)
 - File: Milestone-1/Code.md
-- URL: https://github.com/maknop/twitter-clone-documentation/edit/master/docs/milestone-1/Code.md
+- URL: https://github.com/Twitter-Clone/twitter-clone-documentation/edit/master/docs/milestone-1/Code.md
 - Git Repo: twitter-clone-api
 
 ### Milestone 1. Project Plan Complete
