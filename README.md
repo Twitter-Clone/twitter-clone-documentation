@@ -52,7 +52,7 @@ Github
 7. [First Upgrade](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/docs/milestone-7/Index.md)
 
 ### User Stories
-You can find our complete list of user stories [here](https://github.com/maknop/twitter-clone-api/blob/master/docs/UserStories.md).
+You can find our complete list of user stories [here](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/docs/UserStories.md).
 
 ### ENTITY RELATIONAL DIAGRAM 
 ![ERD](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/img/ERD.jpg)
