@@ -23,7 +23,8 @@ Development.
 [Ashley Hart](https://github.com/hart2533)  
 [Sean Strawmatt](https://github.com/sstrawmatt2) 
 
-### MICROSERVICES  
+### DOCUMENTATION & MICROSERVICES  
+https://github.com/Twitter-Clone/Twitter-Clone-Documentation
 https://github.com/Twitter-Clone/twitter-clone-api  
 https://github.com/Twitter-Clone/twitter-clone-frontend  
                 
