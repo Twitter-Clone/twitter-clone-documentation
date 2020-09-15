@@ -8,14 +8,14 @@ This project will utilize two microservices which are the frontend UX/UI and the
 Development. 
 
 ### FEATURES
-[Team](https://github.com/Twitter-Clone/twitter-clone-api#team)  
-[Micro-services](https://github.com/Twitter-Clone/Twitter-Clone-Documentation#documentation--microservices)  
-[Roles](https://github.com/Twitter-Clone/twitter-clone-api#roles)  
-[Tools](https://github.com/Twitter-Clone/twitter-clone-api#tools)  
-[Milestone](https://github.com/Twitter-Clone/twitter-clone-api#milestones)  
-[User Stories](https://github.com/Twitter-Clone/twitter-clone-api#user-stories)  
-[Entity Relational Diagram](https://github.com/Twitter-Clone/twitter-clone-api#entity-relational-diagram)  
-[Data Dictionary](https://github.com/Twitter-Clone/twitter-clone-api#data-dictionary) 
+[Team](https://github.com/Twitter-Clone/twitter-clone-documentation#team)  
+[Micro-services](https://github.com/Twitter-Clone/twitter-clone-documentation#documentation--microservices)  
+[Roles](https://github.com/Twitter-Clone/twitter-clone-documentation#roles)  
+[Tools](https://github.com/Twitter-Clone/twitter-clone-documentation#tools)  
+[Milestone](https://github.com/Twitter-Clone/twitter-clone-documentation#milestones)  
+[User Stories](https://github.com/Twitter-Clone/twitter-clone-documentation#user-stories)  
+[Entity Relational Diagram](https://github.com/Twitter-Clone/twitter-clone-documentation#entity-relational-diagram)  
+[Data Dictionary](https://github.com/Twitter-Clone/twitter-clone-documentation#data-dictionary) 
    
 ### TEAM
 [Matthew Knop](https://github.com/maknop)  
@@ -24,7 +24,7 @@ Development.
 [Sean Strawmatt](https://github.com/sstrawmatt2) 
 
 ### DOCUMENTATION & MICROSERVICES  
-https://github.com/Twitter-Clone/Twitter-Clone-Documentation  
+https://github.com/Twitter-Clone/twitter-clone-documentation  
 https://github.com/Twitter-Clone/twitter-clone-api  
 https://github.com/Twitter-Clone/twitter-clone-frontend  
                 
@@ -43,16 +43,16 @@ NGINX utilization for Reverse Proxy
 Github  
 
 ### MILESTONES
-1. [Project Plan Complete](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/docs/milestone-1/Index.md)
-2. [Technology Proven](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/docs/milestone-2/Index.md)
-3. [Core Features Implemented](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/docs/milestone-3/Index.md)
-4. [Functionality Complete](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/docs/milestone-4/Index.md)
-5. [Test Complete](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/docs/milestone-5/Index.md)
-6. [Release](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/docs/milestone-6/Index.md)
-7. [First Upgrade](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/docs/milestone-7/Index.md)
+1. [Project Plan Complete](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-1/Index.md)
+2. [Technology Proven](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-2/Index.md)
+3. [Core Features Implemented](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-3/Index.md)
+4. [Functionality Complete](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-4/Index.md)
+5. [Test Complete](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-5/Index.md)
+6. [Release](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-6/Index.md)
+7. [First Upgrade](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-7/Index.md)
 
 ### User Stories
-You can find our complete list of user stories [here](https://github.com/Twitter-Clone/twitter-clone-api/blob/master/docs/UserStories.md).
+You can find our complete list of user stories [here](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/UserStories.md).
 
 ### ENTITY RELATIONAL DIAGRAM 
 ![ERD](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/img/ERD.jpg)
