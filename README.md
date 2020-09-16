@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/issues-closed/Twitter-Clone/twitter-clone-api)
 
 ### PROJECT INFO 
-This project will utilize two microservices which are the frontend UX/UI and the backend API development. Both  microservices will be deployed from Docker containers and managed using Jenkins for Continuous Integration/Continuous  
+This project will utilize two microservices which are the frontend UX/UI and the backend API development. Both  microservices will be deployed from Docker containers and managed using GitHub Actions for Continuous Integration/Continuous  
 Development. 
 
 ### FEATURES
