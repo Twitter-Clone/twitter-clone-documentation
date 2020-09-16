@@ -10,5 +10,5 @@ Topics Discussed:
 _x_ Matthew Knop
 _x_ Ashley Hart
 _x_ Sean Strawmatt
-___ Doug Mellon
+_x_ Doug Mellon
 ```
