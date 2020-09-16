@@ -19,11 +19,13 @@ Document: [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentati
 - Views and wireframes
 
 ### Role: Programmer - Code
-Goal: < Goal of this milestone >
+Goal: Test-driven development workflow
 
 Document: [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-2/Code.md)
 
-< Sections of Document >
+- Project info
+- Milestone 2. Technology Proven
+- Twitter clone - Test-driven development workflow
 
 ### Role: QA Engineer - Test
 Goal: < Goal of this milestone >
