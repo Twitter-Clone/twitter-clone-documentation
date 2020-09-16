@@ -16,7 +16,7 @@ Goal: Test-driven development workflow
 - Setup testing
 - Document our process for deployment and testing
 
-## Book Builder - Test-driven development workflow
+## Twitter clone - Test-driven development workflow
 Build code foundation
 - Setup Django app for API
 - Build tests for our CICD pipeline to test API endpoints
