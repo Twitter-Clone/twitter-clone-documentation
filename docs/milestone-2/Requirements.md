@@ -14,7 +14,7 @@
 
 * File: Milestone-2/Requirements.md
 
-* URL: https://github.com/Twitter-Clone/twitter-clone-api/edit/master/docs/milestone-2/Requirements.md
+* URL: https://github.com/Twitter-Clone/twitter-clone-documentation/edit/master/docs/milestone-2/Requirements.md
 
 * Documents: 
 
