@@ -13,8 +13,11 @@ Goal: Test-driven development workflow
 
 - Build deployment pipeline
 - Setup code foundation
+- Build out DB tables using PostgreSQL and DataGrip
+- Integrate REST API CRUD operations
 - Setup testing
 - Document our process for deployment and testing
+- Deploy working foundation
 
 ## Twitter clone - Test-driven development workflow
 Build code foundation
