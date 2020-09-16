@@ -10,9 +10,9 @@ File: Milestone-2/Test.md
 
  URL: https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-2/Test.md 
 
-Documents: Documents/swplan/BookBuilder
+Documents: 
 
-Git Repo: Mark-Seaman.github.io
+Git Repo: twitter-clone-api
 
 ### Milestone 2. Technology Proven
 Role: QA Engineer - Test
