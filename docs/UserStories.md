@@ -7,3 +7,4 @@
 * As a user, I want to be able to reset my password, if I ever have trouble logging in
 * As a user, I want to be able to change my username, if I do not like the current one that is set. 
 * As a user, I want to be able to view all tweets, so that I can see what other people are tweeting.
+* As a user, I want to be able to message other users, so I can send them private messages.
