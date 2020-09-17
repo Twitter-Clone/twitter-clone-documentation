@@ -16,7 +16,7 @@ Goal: Software Architecture
 ## SMS Twitter- Software Architecture
 
 ### Design Around User Stories
-User Stories
+You can find our complete list of user stories [here](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/UserStories.md).
 
 ### Design Architecture
 
