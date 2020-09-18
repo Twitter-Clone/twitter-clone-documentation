@@ -65,7 +65,7 @@ every day with eachother
 * Product backlog can be found at: https://github.com/Twitter-Clone/Twitter-Clone-Documentation/blob/master/docs/milestone-2/product%20backlog%20pic.png
  
   
-##Milestone #2 Team Survey
+## Milestone #2 Team Survey
 ```
 Matt - (3/3 credits)
     _x_ participated in team meetings
