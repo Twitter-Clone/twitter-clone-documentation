@@ -63,6 +63,11 @@ every day with eachother
 
 **Product Backlog**
 * Product backlog can be found at: https://github.com/Twitter-Clone/Twitter-Clone-Documentation/blob/master/docs/milestone-2/product%20backlog%20pic.png
+
+**Sprints**
+* Each sprint will represent a milestone which takes two weeks to complete. Sprints include all team members and the roles that they are assignmed. Sprints
+will be discussed during each team meeting. 
+* For this sprint, the goal was to establish communication with the team, and the client (Mark Seaman).
  
   
 ## Milestone #2 Team Survey
