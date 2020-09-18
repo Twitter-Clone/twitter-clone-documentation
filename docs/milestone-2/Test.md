@@ -27,3 +27,26 @@ Goal: Test Infrastructure
 ### Unit test framework
 ### System testing framework
 ### Regression testing
+
+##Milestone #2 Team Survey
+```
+Matt - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+    
+Ashley - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+    
+Doug - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+
+Sean - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+``` 

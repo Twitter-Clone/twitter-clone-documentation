@@ -64,3 +64,26 @@ every day with eachother
 **Product Backlog**
 * Product backlog can be found at: https://github.com/Twitter-Clone/Twitter-Clone-Documentation/blob/master/docs/milestone-2/product%20backlog%20pic.png
  
+  
+##Milestone #2 Team Survey
+```
+Matt - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+    
+Ashley - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+    
+Doug - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+
+Sean - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+``` 
