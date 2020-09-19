@@ -48,8 +48,7 @@ Messages
 - Create & Send
 - Receive
 
-You can find a visual of what is listed above [here](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-2/Milestone2.-datamodelpng.png)
-                                        and   [here](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/img/ERD.jpg).
+You can find two visuals showing what is listed above: [first visual](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-2/Milestone2.-datamodelpng.png), [second visual](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/img/ERD.jpg).
 
 
 ### App Views
