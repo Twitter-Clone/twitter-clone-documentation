@@ -37,6 +37,20 @@ You can find our wireframes [here](https://github.com/Twitter-Clone/twitter-clon
 ### Data models
 Data Classes and database tables
 
+User
+- Create Account
+- Login
+Posts
+- Create
+- Like
+- Comment
+Messages
+- Create & Send
+- Receive
+
+You can find a visual of what is listed above [here](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-2/Milestone2.-datamodelpng.png),
+                                        and   [here](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/img/ERD.jpg).
+
 
 ### App Views
 - User:
@@ -46,9 +60,12 @@ Data Classes and database tables
   - Reset password
   - Change username
 - Posts:
-  - Post messages
-  - Like posted messages
-  - Comment on posted messages
+  - Post content
+  - Like global posts
+  - Comment on global posts
+- Messages: 
+  - Send messages
+  - Receive messages
   
  ### Phases of Implementation
  
