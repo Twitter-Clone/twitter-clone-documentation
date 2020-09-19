@@ -16,11 +16,22 @@ Goal: Software Architecture
 ## SMS Twitter- Software Architecture
 
 ### Design Around User Stories
+
+- User- C U D V
+- Post- C U D V
+- Message- C U D V
+- Comment- C D V
+- Like- C D V
+
+NOTE: Letters stand for CREATE (C), UPDATE (U), DELETE (D) and VIEW (V).
+
 You can find our complete list of user stories [here](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/UserStories.md).
 
 ### Design Architecture
+Views and wireframes
 
-### Data Schema
+You can find our wireframes [here](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-2/Milestone2_wireframe.png).
+
 
 ### Data models
 Data Classes and database tables
