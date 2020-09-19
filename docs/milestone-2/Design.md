@@ -28,7 +28,8 @@ NOTE: Letters stand for CREATE (C), UPDATE (U), DELETE (D) and VIEW (V).
 You can find our complete list of user stories [here](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/UserStories.md).
 
 ### Design Architecture
-Views and wireframes
+- Apps = Data + Views
+- The design for the app requires designing the data models and the Views that will be implemented.
 
 You can find our wireframes [here](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-2/Milestone2_wireframe.png).
 
