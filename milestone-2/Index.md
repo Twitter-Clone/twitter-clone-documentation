@@ -28,8 +28,9 @@ Document: [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation
 - Twitter clone - Test-driven development workflow
 
 ### Role: QA Engineer - Test
-Goal: < Goal of this milestone >
+Goal: Test Infrastructure
 
 Document: [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-2/Test.md)
-
-< Sections of Document >
+- Unit test framework
+- System testing framework
+- Regression testing
