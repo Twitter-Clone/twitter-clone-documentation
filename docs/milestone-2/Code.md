@@ -26,7 +26,7 @@ Build code foundation
 - Document the testing and deployment pipeline
 
 
-##Milestone #2 Team Survey
+## Milestone #2 Team Survey
 ```
 Matt - (3/3 credits)
     _x_ participated in team meetings

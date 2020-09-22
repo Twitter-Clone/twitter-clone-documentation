@@ -16,14 +16,39 @@ Goal: Software Architecture
 ## SMS Twitter- Software Architecture
 
 ### Design Around User Stories
+
+- User- C U D V
+- Post- C U D V
+- Message- C U D V
+- Comment- C D V
+- Like- C D V
+
+NOTE: Letters stand for CREATE (C), UPDATE (U), DELETE (D) and VIEW (V).
+
 You can find our complete list of user stories [here](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/UserStories.md).
 
 ### Design Architecture
+- Apps = Data + Views
+- The design for the app requires designing the data models and the Views that will be implemented.
 
-### Data Schema
+You can find our wireframes [here](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-2/Milestone2_wireframe.png).
+
 
 ### Data models
 Data Classes and database tables
+
+User
+- Create Account
+- Login
+Posts
+- Create
+- Like
+- Comment
+Messages
+- Create & Send
+- Receive
+
+You can find two visuals showing what is listed above: [first visual](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-2/Milestone2.-datamodelpng.png), [second visual](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/img/ERD.jpg).
 
 
 ### App Views
@@ -34,9 +59,12 @@ Data Classes and database tables
   - Reset password
   - Change username
 - Posts:
-  - Post messages
-  - Like posted messages
-  - Comment on posted messages
+  - Post content
+  - Like global posts
+  - Comment on global posts
+- Messages: 
+  - Send messages
+  - Receive messages
   
  ### Phases of Implementation
  
@@ -57,7 +85,7 @@ Data Classes and database tables
     - Fix all errors
     - Implement 100% test coverage
 
-##Milestone #2 Team Survey
+## Milestone #2 Team Survey
 ```
 Matt - (3/3 credits)
     _x_ participated in team meetings
