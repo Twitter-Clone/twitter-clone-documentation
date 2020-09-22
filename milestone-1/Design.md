@@ -2,9 +2,9 @@
 
 ## Project Info
 * [Software Project Plan - Twitter Clone](https://github.com/Twitter-Clone)
-* Other Roles - [Requirements.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-1/Requirements.md) , [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-1/Code.md) , [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-1/Test.md)
+* Other Roles - [Requirements.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-1/Requirements.md) , [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-1/Code.md) , [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-1/Test.md)
 * File: milestone-1/Design.md
-* URL: https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-1/Design.md
+* URL: https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-1/Design.md
 * Git Repo: github.com/Twitter-Clone/twitter-clone-documentation
 
 ## Milestone 1. Project Plan Complete
