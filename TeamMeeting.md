@@ -26,3 +26,16 @@ _x_ Ashley Hart
 _x_ Sean Strawmatt
 _x_ Doug Mellon
 ```
+
+#### Date: 09/22/2020
+Topics Discussed:
+- Discussed individual role responsibilities.
+- Research information regarding Django framework.
+- Discussed approach to developing our application flow.
+
+```
+_x_ Matthew Knop
+_x_ Ashley Hart
+_x_ Sean Strawmatt
+_x_ Doug Mellon
+```
