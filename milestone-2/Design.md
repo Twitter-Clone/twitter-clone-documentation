@@ -2,10 +2,10 @@
 
 ### PROJECT INFO
 - Software Project Plan- SMS Twitter
-- Other Roles: [Requirements.md](https://github.com/maknop/twitter-clone-api/blob/master/docs/milestone-2/Requirements.md), [Design.md](https://github.com/maknop/twitter-clone-api/blob/master/docs/milestone-2/Design.md), [Code.md](https://github.com/maknop/twitter-clone-api/blob/master/docs/milestone-2/Code.md)
+- Other Roles: [Requirements.md](https://github.com/maknop/twitter-clone-api/blob/master/milestone-2/Requirements.md), [Design.md](https://github.com/maknop/twitter-clone-api/blob/master/milestone-2/Design.md), [Code.md](https://github.com/maknop/twitter-clone-api/blob/master/milestone-2/Code.md)
 , [Test.md](https://github.com/maknop/twitter-clone-api/blob/master/docs/milestone-2/Test.md)
 - File: docs/milestone-2/Design.md
-- URL: https://github.com/maknop/twitter-clone-api/blob/master/docs/milestone-2/Design.md 
+- URL: https://github.com/maknop/twitter-clone-api/blob/master/milestone-2/Design.md 
 - Git Repo: twitter-clone-api
 
 ### Milestone 2. Technology Proven
@@ -16,7 +16,7 @@ Goal: Software Architecture
 ## SMS Twitter- Software Architecture
 
 ### Design Around User Stories
-You can find our complete list of user stories [here](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/UserStories.md).
+You can find our complete list of user stories [here](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/UserStories.md).
 
 ### Design Architecture
 
