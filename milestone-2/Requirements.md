@@ -14,7 +14,7 @@
 
 * File: Milestone-2/Requirements.md
 
-* URL: https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-2/Requirements.md
+* URL: https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-2/Requirements.md
 
 * Documents: 
 
@@ -62,7 +62,7 @@ every day with eachother
 * Daily meetings are difficult with everyones schedule, but could be possibe for fifteen minutes a day. 
 
 **Product Backlog**
-* Product backlog can be found at: https://github.com/Twitter-Clone/Twitter-Clone-Documentation/blob/master/docs/milestone-2/product%20backlog%20pic.png
+* Product backlog can be found at: https://github.com/Twitter-Clone/Twitter-Clone-Documentation/blob/master/milestone-2/product%20backlog%20pic.png
  
   
 ##Milestone #2 Team Survey
