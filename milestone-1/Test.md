@@ -4,7 +4,7 @@
 - [Software Project Plan - Twitter Clone](https://github.com/Twitter-Clone)
 - Other Roles - [Requirements.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-1/Requirements.md), 
                 [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-1/Design.md), 
-                [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation/edit/master/milestone-1/Code.md), 
+                [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-1/Code.md), 
                 [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-1/Test.md)
 - File: Milestone-1/Code.md
 - URL: https://github.com/Twitter-Clone/twitter-clone-documentation/edit/master/milestone-1/Code.md
