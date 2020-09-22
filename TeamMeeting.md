@@ -1,6 +1,6 @@
 # Team Meetings
 
-#### Date: 09/15/2020
+### Date: 09/15/2020
 Topics Discussed:
 - Moved documentation to separate repo.
 - We went over user stories.
@@ -13,7 +13,7 @@ _x_ Sean Strawmatt
 _x_ Doug Mellon
 ```
 
-#### Date: 09/17/2020
+### Date: 09/17/2020
 Topics Discussed:
 - Discussed user interface for wireframe creation.
 - We added a couple more user stories
@@ -27,7 +27,7 @@ _x_ Sean Strawmatt
 _x_ Doug Mellon
 ```
 
-#### Date: 09/22/2020
+### Date: 09/22/2020
 Topics Discussed:
 - Discussed individual role responsibilities.
 - Research information regarding Django framework.
