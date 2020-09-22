@@ -1,9 +1,9 @@
 # Milestone 2. Technology Proven - Code
 ## PROJECT INFO
 - [Software project plan](https://github.com/Twitter-Clone/twitter-clone-documentation)
-- Other Roles - [Requirements.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-2/Requirements.md) , [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-2/Design.md) , [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-2/Test.md)
+- Other Roles - [Requirements.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-2/Requirements.md) , [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-2/Design.md) , [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-2/Test.md)
 - File: Milestone-2/Code.md
-- URL: https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/docs/milestone-2/Code.md
+- URL: https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-2/Code.md
 - Documents: twitter-clone-documentation/tree/master/docs
 - Git Repo: https://github.com/Twitter-Clone
 ## Milestone 2. Technology Proven
