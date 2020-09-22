@@ -3,18 +3,21 @@
 Goal: < Goal of this milestone >
 
 Document: [Requirements.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-3/Requirements.md)
+
 < Sections of Document >
 
 ### Role: Designer - Design
-Goal: Software Architecture
+Goal: < Goal of this milestone >
 
 Document: [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-3/Design.md)
+
 < Sections of Document >
 
 ### Role: Programmer - Code
-Goal: Test-driven development workflow
+Goal: < Goal of this milestone >
 
 Document: [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-2/Code.md)
+
 < Sections of Document >
 
 ### Role: QA Engineer - Test
