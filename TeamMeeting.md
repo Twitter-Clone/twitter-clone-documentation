@@ -39,3 +39,17 @@ _x_ Ashley Hart
 _x_ Sean Strawmatt
 _x_ Doug Mellon
 ```
+
+### Date: 09/24/2020
+Topics Discussed:
+- Hooked application to database.
+- Added more necessary dependencies to project.
+- Discussed high level implementation of project.
+- 
+
+```
+_x_ Matthew Knop
+_x_ Ashley Hart
+_x_ Sean Strawmatt
+_x_ Doug Mellon
+```
