@@ -1,7 +1,10 @@
 # Software Project Plan - Twitter Clone 
 ![twitter-clone-api](https://github.com/Twitter-Clone/twitter-clone-api/workflows/twitter-clone-api/badge.svg)
 ![](https://img.shields.io/github/issues/Twitter-Clone/twitter-clone-api)
-![](https://img.shields.io/github/issues-closed/Twitter-Clone/twitter-clone-api)
+![](https://img.shields.io/github/issues-closed/Twitter-Clone/twitter-clone-api)  
+![twitter-clone-frontend](https://github.com/Twitter-Clone/twitter-clone-frontend/workflows/twitter-clone-frontend/badge.svg)
+![](https://img.shields.io/github/issues/Twitter-Clone/twitter-clone-documentation)
+![](https://img.shields.io/github/issues-closed/Twitter-Clone/twitter-clone-documentation)
 
 ### PROJECT INFO 
 This project will utilize two microservices which are the frontend UX/UI and the backend API development. Both  microservices will be deployed from Docker containers and managed using GitHub Actions for Continuous Integration/Continuous Development. 
