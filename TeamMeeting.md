@@ -44,8 +44,21 @@ _x_ Doug Mellon
 Topics Discussed:
 - Hooked application to database.
 - Added more necessary dependencies to project.
-- Discussed high level implementation of project.
-- 
+- Discussed high level implementation of project. 
+
+```
+_x_ Matthew Knop
+_x_ Ashley Hart
+_x_ Sean Strawmatt
+_x_ Doug Mellon
+```
+
+### Date: 09/29/2020
+Topics Discussed:
+- Database migrated.
+- Built working url path.
+- Tested with Postman
+- Discussed requirements for tasks to finish milestone 3.
 
 ```
 _x_ Matthew Knop
