@@ -52,11 +52,29 @@ Goal: Component Design - API
 
 ### Implement data models
 * Data models are included for users, posts, post reactions, and comment replies
- **Users
+
+ ### Users
   * userid
   * twitterhandle
   * email
   * password
+ 
+ ### Posts
+  * postid
+  * tweet
+  * userid
+ 
+ ### PostReactions
+  * reactionsid
+  * postlikes
+  * postcomments
+  
+ ### Comment Replies
+  * commentsid
+  * postcomments
+  
+  
+  * Data model can be found at: https://github.com/Twitter-Clone/twitter-clone-api/blob/master/tcapi/serializer.py
     
 
 
