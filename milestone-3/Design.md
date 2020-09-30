@@ -74,7 +74,7 @@ Goal: Component Design - API
   * postcomments
   
   
-  * Data model can be found at: https://github.com/Twitter-Clone/twitter-clone-api/blob/master/tcapi/serializer.py
+  Data model can be found at: https://github.com/Twitter-Clone/twitter-clone-api/blob/master/tcapi/models.py
     
 
 
