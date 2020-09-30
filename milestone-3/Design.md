@@ -52,8 +52,7 @@ Goal: Component Design - API
 
 ### Implement data models
 * Data models are included for users, posts, post reactions, and comment replies
-
-  **class UserSerializer(serializers.ModelSerializer):
+class UserSerializer(serializers.ModelSerializer):
     """
     Serializer for the User table.
     """
@@ -63,8 +62,8 @@ Goal: Component Design - API
                   'twitterhandle',
                   'email',
                   'password')
-  
-  **class PostSerializer(serializers.ModelSerializer):
+
+class PostSerializer(serializers.ModelSerializer):
     """
     #Serializer for the Post table.
     """
@@ -72,10 +71,9 @@ Goal: Component Design - API
         model = Posts
         fields = ('postid',
                   'tweet',
-                  'userid',
-    
-    
-   **class PostReactionsSerializers(serializers.ModelSerializer):
+                  'userid')
+
+class PostReactionsSerializers(serializers.ModelSerializer):
     """
     #Serializer for the PostReactions table.
     """
@@ -84,18 +82,15 @@ Goal: Component Design - API
         fields = ('reactionsid',
                   'postlikes',
                   'postcomments')
-                  
-                  
-                  
-    **class CommentRepliesSerializers(serializers.ModelSerializer):
+
+class CommentRepliesSerializers(serializers.ModelSerializer):
     """
     #Serializer for the CommentReplies table.
     """
     class Meta:
         model = CommentReplies
         fields = ('commentsid',
-                  'postcomments')             
-    
+                  'postcomments')
     
 
 
