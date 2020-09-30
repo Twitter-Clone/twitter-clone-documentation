@@ -14,7 +14,7 @@
 
 * File: Milestone-3/Design.md
 
-* URL:https://github.com/Twitter-Clone/twitter-clone-documentation/edit/master/milestone-3/Design.md
+* URL:https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-3/Design.md
 
 * Documents: Documents/swplan/BookBuilder
 
