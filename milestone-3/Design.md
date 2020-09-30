@@ -52,6 +52,7 @@ Goal: Component Design - API
 
 ### Implement data models
 * Data models are included for users, posts, post reactions, and comment replies
+
   *class UserSerializer(serializers.ModelSerializer):
     """
     Serializer for the User table.
@@ -74,7 +75,7 @@ Goal: Component Design - API
                   'userid',
     
     
-    class PostReactionsSerializers(serializers.ModelSerializer):
+    *class PostReactionsSerializers(serializers.ModelSerializer):
     """
     #Serializer for the PostReactions table.
     """
@@ -86,7 +87,7 @@ Goal: Component Design - API
                   
                   
                   
-     class CommentRepliesSerializers(serializers.ModelSerializer):
+     *class CommentRepliesSerializers(serializers.ModelSerializer):
     """
     #Serializer for the CommentReplies table.
     """
