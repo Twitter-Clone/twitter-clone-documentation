@@ -5,11 +5,11 @@
                 [Code.md](Code.md) , 
                 [Test.md](Test.md)
 - File: Milestone-3/Requirements.md
-- URL: https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-3/Requirements.md
-- Documents: https://github.com/Twitter-Clone/twitter-clone-documentation
+- URL: [requirements.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-3/Requirements.md)
+- Documents: [twitter-clone-documentation repo](https://github.com/Twitter-Clone/twitter-clone-documentation)
 - Git Repo: 
-    - Backend microservice: https://github.com/Twitter-Clone/twitter-clone-api  
-    - Frontend microservice: https://github.com/Twitter-Clone/twitter-clone-frontend
+    - Backend microservice: [twitter-clone-api repo](https://github.com/Twitter-Clone/twitter-clone-api)  
+    - Frontend microservice: [twitter-clone-frontend repo](https://github.com/Twitter-Clone/twitter-clone-frontend) 
 
 ## Milestone 3. Core Features Implemented
 Role: Project Manager - Requirements
