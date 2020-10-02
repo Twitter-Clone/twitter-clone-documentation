@@ -6,8 +6,10 @@
                 [Test.md](Test.md)
 - File: Milestone-3/Requirements.md
 - URL: https://github.com/Mark-Seaman/Mark-Seaman.github.io/blob/master/BookBuilder/Milestone-3/Requirements.md
-- Documents: Documents/swplan/BookBuilder
-- Git Repo: Mark-Seaman.github.io
+- Documents: https://github.com/Twitter-Clone/twitter-clone-documentation
+- Git Repo: 
+    - https://github.com/Twitter-Clone/twitter-clone-api  
+    - https://github.com/Twitter-Clone/twitter-clone-frontend
 
 ### Milestone 3. Core Features Implemented
 Role: Project Manager - Requirements
