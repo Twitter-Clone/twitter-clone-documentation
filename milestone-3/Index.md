@@ -8,7 +8,7 @@ Document: [Requirements.md](https://github.com/Twitter-Clone/twitter-clone-docum
 - Customer review
 
 ### Role: Designer - Design
-Goal: < Goal of this milestone >
+Goal: Component Design
 
 Document: [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-3/Design.md)
 
