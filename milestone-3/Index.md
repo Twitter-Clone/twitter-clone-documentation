@@ -12,7 +12,10 @@ Goal: Component Design
 
 Document: [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-3/Design.md)
 
-< Sections of Document >
+* Prototype - development spike of core functionality
+* Implement data models
+* Implement views
+* Implement URL routes
 
 ### Role: Programmer - Code
 Goal: < Goal of this milestone >
