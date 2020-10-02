@@ -1,10 +1,11 @@
 # Milestone 3. Core Features Implemented
 ### Role: Project Manager - Requirements
-Goal: < Goal of this milestone >
+Goal: Core Features Implemented
 
 Document: [Requirements.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-3/Requirements.md)
 
-< Sections of Document >
+- Plan User Stories
+- Customer review
 
 ### Role: Designer - Design
 Goal: < Goal of this milestone >
