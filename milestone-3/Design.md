@@ -18,7 +18,6 @@
 
 * Documents: Documents/swplan/BookBuilder
 
-* Git Repo: Mark-Seaman.github.io
 
 
 
