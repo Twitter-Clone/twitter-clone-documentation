@@ -5,7 +5,7 @@
                 [Code.md](Code.md) , 
                 [Test.md](Test.md)
 - File: Milestone-3/Requirements.md
-- URL: https://github.com/Mark-Seaman/Mark-Seaman.github.io/blob/master/BookBuilder/Milestone-3/Requirements.md
+- URL: https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-3/Requirements.md
 - Documents: https://github.com/Twitter-Clone/twitter-clone-documentation
 - Git Repo: 
     - https://github.com/Twitter-Clone/twitter-clone-api  
