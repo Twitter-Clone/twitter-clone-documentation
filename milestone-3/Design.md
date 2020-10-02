@@ -99,3 +99,27 @@ code to take notes and observe what is happening.
 * 3. If the code is broken, do not move on until it is fixed. This can cause to more bugs within a few short moments. 
 * 4. Fix it then break it and repeat to fully understand what the code is doing. 
 * 5. Document the issues that cannot be resolved. 
+
+
+##Milestone #3 Team Survey
+```
+Matt - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+    
+Ashley - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+    
+Doug - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+
+Sean - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+``` 
