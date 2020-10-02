@@ -16,9 +16,9 @@
 
 * URL: https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-2/Requirements.md
 
-* Documents: 
+* Documents: https://github.com/Twitter-Clone/twitter-clone-documentation
 
-* Git Repo: 
+* Git Repo: https://github.com/Twitter-Clone/twitter-clone-api
 
 
 
