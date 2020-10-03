@@ -44,6 +44,7 @@ Goal: Incremental development (Sprints)
  
 
 ## Team Survey
+```
 Matt - (3/3 credits)
     _x_ participated in team meetings
     _x_ was cooperative
@@ -63,3 +64,4 @@ Sean - (3/3 credits)
     _x_ participated in team meetings
     _x_ was cooperative
     _x_ delivered contribution
+```
