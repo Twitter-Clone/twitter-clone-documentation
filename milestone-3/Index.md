@@ -25,8 +25,10 @@ Document: [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation
 < Sections of Document >
 
 ### Role: QA Engineer - Test
-Goal: < Goal of this milestone >
+Goal: Automated testing
 
 Document: [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-3/Test.md)
 
-< Sections of Document >
+*Unit testing
+*System testing
+*Code coverage of tests
