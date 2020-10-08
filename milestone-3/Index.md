@@ -18,11 +18,14 @@ Document: [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentati
 * Implement URL routes
 
 ### Role: Programmer - Code
-Goal: < Goal of this milestone >
+Goal: Incremental development (Sprints)
 
 Document: [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-3/Code.md)
 
-< Sections of Document >
+- Select features for sprint
+- Implement the features
+- Test the features
+- Fix all defects
 
 ### Role: QA Engineer - Test
 Goal: Automated testing
