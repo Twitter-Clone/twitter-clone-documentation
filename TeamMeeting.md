@@ -91,4 +91,5 @@ _x_ Matthew Knop
 _x_ Ashley Hart
 _x_ Sean Strawmatt
 _x_ Doug Mellon
+_x_ Christian Hogue
 ```
