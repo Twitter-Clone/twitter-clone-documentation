@@ -79,3 +79,17 @@ _x_ Ashley Hart
 _x_ Sean Strawmatt
 _x_ Doug Mellon
 ```
+
+### Date: 10/08/2020
+Topics Discussed:
+- Discussed milestone 4 tasks for each role.
+- Discussed all necessary information Christian needs to know.
+- Planned approach for the rest of milestone 4.
+ 
+```
+_x_ Matthew Knop
+_x_ Ashley Hart
+_x_ Sean Strawmatt
+_x_ Doug Mellon
+_x_ Christian Hogue
+```
