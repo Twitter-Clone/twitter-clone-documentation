@@ -6,10 +6,18 @@
 - URL: https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-4/Code.md
 - Documents: twitter-clone-documentation/tree/master/docs
 - Git Repo: https://github.com/Twitter-Clone
-## Milestone 4.
+## Milestone 4. Functionality Complete
 Role: Programmer - Code
 
-Goal: 
+Goal: Write code - core features
+
+### Implement all user stories
+
+### Use Test-driven workflow
+
+### Implementation Cycle
+
+### Implement all core features
 
 
 
