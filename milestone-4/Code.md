@@ -51,9 +51,6 @@ Goal: Write code - core features
 
 
 
-
-
-
 ##Milestone #4 Team Survey
 ```
 ``` 
