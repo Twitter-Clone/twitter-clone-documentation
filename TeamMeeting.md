@@ -93,3 +93,17 @@ _x_ Sean Strawmatt
 _x_ Doug Mellon
 _x_ Christian Hogue
 ```
+
+### Date: 10/08/2020
+Topics Discussed:
+- Data input from frontend is received on the backend and stored in the Database.
+- Redeployed api to pythonanywhere to test. 
+- Added api tests.
+ 
+```
+_x_ Matthew Knop
+_x_ Ashley Hart
+_x_ Sean Strawmatt
+_x_ Doug Mellon
+_x_ Christian Hogue
+```
