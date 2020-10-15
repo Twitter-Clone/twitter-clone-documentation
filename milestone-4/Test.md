@@ -14,11 +14,11 @@
 
 * File: Milestone-4/Test.md
 
-* URL: https://github.com/Mark-Seaman/Mark-Seaman.github.io/blob/master/BookBuilder/Milestone-4/Test.md
+* URL: https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-4/Test.md
 
-* Documents: Documents/swplan/BookBuilder
+* Documents: Documents/Twitter-Clone
 
-* Git Repo: Mark-Seaman.github.io
+* Git Repo: Twitter-Clone
 
 
 
@@ -36,7 +36,7 @@ Goal: Continuous integration
 
 
 
-## Book Builder - Continuous integration
+## Twitter-Clone - Continuous integration
 
 
 
