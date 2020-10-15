@@ -18,4 +18,5 @@ Goal: Team coordinator
 - Task Kanban
 - Prioritize feature requests
 - Sprint planning
+- Burn-down Graph
 
