@@ -3,7 +3,7 @@
 
 ## PROJECT INFO
 
-* [Software Project Plan - Book Builder](../Index.md)
+* [Software Project Plan - Twitter-Clone](../Index.md)
 
 * Other Roles - [Requirements.md](Requirements.md)
 , [Design.md](Design.md)
