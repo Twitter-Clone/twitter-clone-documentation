@@ -94,11 +94,26 @@ _x_ Doug Mellon
 _x_ Christian Hogue
 ```
 
-### Date: 10/08/2020
+### Date: 10/13/2020
 Topics Discussed:
 - Data input from frontend is received on the backend and stored in the Database.
 - Redeployed api to pythonanywhere to test. 
 - Added api tests.
+ 
+```
+_x_ Matthew Knop
+_x_ Ashley Hart
+_x_ Sean Strawmatt
+_x_ Doug Mellon
+_x_ Christian Hogue
+```
+
+### Date: 10/15/2020
+Topics Discussed:
+- Refactored code.
+- Moved frontend microservice to its own Digital Ocean droplet (Its own server).
+- Ensured testing was working properly.
+- Make sure JSON data is passing back and forth between frontend and backend. 
  
 ```
 _x_ Matthew Knop
