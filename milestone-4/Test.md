@@ -38,9 +38,12 @@ Goal: Continuous integration
 
 ## Twitter-Clone - Continuous integration
 
-
-
 ### Build and test with every push
+* For milestone 4, the team faced an issue reguarding getting the api connected to the frontend.
+* The team was more focussed on going through our api repository and trying to figure out what connections were broken.
+* However, with the api not working correctly, the team was able to finish up on the views.py. 
+* views.py can be found at: https://github.com/Twitter-Clone/twitter-clone-api/blob/master/tcapi/views.py
 
-
-### Implement Travis (CI tool)
+### Implement Test Coverage
+* Since the team was attempting to correct the issues that were going on with the api, no test coverage was implemented during this time. 
+* Test coverage will be implemented in the future to make clear what code is being tested. 
