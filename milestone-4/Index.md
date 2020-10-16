@@ -35,5 +35,5 @@ Goal:
 
 Document: [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-4/Test.md)
 
-- 
-- 
+- Build and test with every push  
+- Implement Test Coverage
