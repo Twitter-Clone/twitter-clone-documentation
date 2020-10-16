@@ -7,3 +7,28 @@
 - Documents: twitter-clone-documentation/tree/master/docs
 - Git Repo: https://github.com/Twitter-Clone
 ## Milestone 4. Functionality Complete
+
+Role - Programmer - Test-Driven Development
+
+##Milestone #4 Team Survey
+```
+Matt - (3/3 credits)
+    __ participated in team meetings
+    __ was cooperative
+    __ delivered contribution
+    
+Ashley - (3/3 credits)
+    __ participated in team meetings
+    __ was cooperative
+    __ delivered contribution
+    
+Doug - (3/3 credits)
+    __ participated in team meetings
+    __ was cooperative
+    __ delivered contribution
+
+Sean - (3/3 credits)
+    __ participated in team meetings
+    __ was cooperative
+    __ delivered contribution
+``` 
