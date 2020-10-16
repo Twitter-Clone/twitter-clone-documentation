@@ -43,8 +43,6 @@ Goal: Write code - core features
 
 **Reminders**
 
-### Use Test-driven workflow
-
 ### Implementation Cycle
 
 ### Implement all core features
