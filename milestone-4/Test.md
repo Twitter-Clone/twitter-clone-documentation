@@ -39,11 +39,18 @@ Goal: Continuous integration
 ## Twitter-Clone - Continuous integration
 
 ### Build and test with every push
-* For milestone 4, the team faced an issue reguarding getting the api connected to the frontend.
-* The team was more focussed on going through our api repository and trying to figure out what connections were broken.
-* However, with the api not working correctly, the team was able to finish up on the views.py. 
+* For milestone 4, we were able to test that our views were working. 
+* Views that we were able to get working were user_list, user_detail, and tweet_list.
 * views.py can be found at: https://github.com/Twitter-Clone/twitter-clone-api/blob/master/tcapi/views.py
+* We implemented tests that cover the different views.
+* One major issue that we faced was getting all of our settings configured. We had issues with the API not working correctly, so manual testing was definately used here.
+
 
 ### Implement Test Coverage
-* Since the team was attempting to correct the issues that were going on with the api, no test coverage was implemented during this time. 
-* Test coverage will be implemented in the future to make clear what code is being tested. 
+* For test coverage, we have a CI/CD pipeline that was created using Github Actions. 
+* The CI/CD pipleine has two jobs which are located in two of our repositories. 
+* The first job is for building the docker container. This would include updating it when changes have been made. 
+* The second job is responsible for making sure that we are writing clean Python code that follow basic Pep8 standards. 
+* Django testing is done mainly through so called 'second job'.
+* Github Action for Docker container: https://github.com/Twitter-Clone/twitter-clone-api/actions
+* Github Actions for clean python code: https://github.com/Twitter-Clone/twitter-clone-frontend/actions
