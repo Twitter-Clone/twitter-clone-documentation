@@ -21,6 +21,8 @@ Goal: Team coordinator
 
 ## Task Kanban
 
+We need to create a Task Kanban to track our tasks displayed in three categories: ToDo, Progress, and Done. The Task Kanban will make tracking our tasks easier. The first/top task is at highest priority and the last item is at the lowest priority. 
+
 ## Prioritized features requests
 ### User Stories
 
