@@ -55,3 +55,32 @@ You can access our user stories here -> [UserStories](https://github.com/Twitter
     
     
 ## Burn-down Graph
+
+## Milestone #4 Team Survey
+
+```
+Matt - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+    
+Ashley - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+    
+Doug - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+
+Sean - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+    
+Christan - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+```
