@@ -37,9 +37,9 @@ You can access our user stories here -> [UserStories](https://github.com/Twitter
 |  3 | Registered users are able to log in to existing account |
 |  4 | Users are able to reset account password (the current password in the database will be replaced with the new password) |
 |  5 | Users are able to change account username (the current username in the database will be replaced with the updated username |
-|  6 | Users are able to post messages that is shared through out the application |
-|  7 | User are able to view all posts shared by every registered user |
-|  8 | User can view personal post that were shared on the global feed |
+|  6 | ~~Users are able to post messages that is shared through out the application~~ |
+|  7 | ~~User are able to view all posts shared by every registered user~~ |
+|  8 | ~~User can view personal post that were shared on the global feed~~ |
 |  9 | Users are able to like posts shared by other users |
 |  10 | Users are able to comment on posts shared by other users |
 |  11 | Users are able to private message specified users through the message application page |
