@@ -46,6 +46,6 @@ Goal:
 
 Document: [TDD.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-4/TDD.md)
 
--
--
+- Utilize test-driven workflow
+- Build and test with every push
 
