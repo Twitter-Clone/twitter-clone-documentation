@@ -55,6 +55,8 @@ Role - Programmer - Test-Driven Development
     * retrieving two posts (test_get_tweets)
     
     * deleting one post (test_delete_tweet)
+
+    * deleting two posts (test_delete_tweets)
     
     * deleting all posts (test_delete_all)
     
