@@ -1,4 +1,4 @@
-# Milestone 5. Functionality Complete- Requirements
+# Milestone 5. Test Complete- Requirements
 
 ## PROJECT INFO
 
@@ -8,7 +8,7 @@
 - URL: https://github.com/Twitter-Clone/twitter-clone-documentation/edit/master/milestone-5/Requirements.md 
 - Git Repo: https://github.com/Twitter-Clone
 
-### Milestone 5. Functionality Complete
+### Milestone 5. Test Complete
 
 Role: Project Manager- Requirements
 
@@ -55,8 +55,8 @@ You can access our user stories here -> [UserStories](https://github.com/Twitter
   Our highest priority is meeting the client's expectations in the order of their preference. Our product backlog expresses our features in the order selected by the client.
     
   You can view our Product Backlog here -> [ProductBacklog](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-2/product%20backlog%20pic.png)
-    
-    
+
+
 
 ## Milestone #5 Team Survey
 
