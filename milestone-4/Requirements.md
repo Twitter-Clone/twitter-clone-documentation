@@ -17,11 +17,12 @@ Goal: Team coordinator
 - Task Kanban
 - Prioritize feature requests
 - Sprint planning
-- Burn-down Graph
 
 ## Task Kanban
 
-We need to create a Task Kanban to track our tasks displayed in three categories: ToDo, Progress, and Done. The Task Kanban will make tracking our tasks easier. The first/top task is at highest priority and the last item is at the lowest priority. 
+A Task Kanban was created to track our tasks displayed in three categories: ToDo, Progress, and Done. The Task Kanban will make tracking our tasks easier. The first/top task is at highest priority and the last item is at the lowest priority. 
+
+You can access our task kanban here --> [TaskKanban](https://github.com/Twitter-Clone/twitter-clone-documentation/projects/1)
 
 ## Prioritized features requests
 ### User Stories
@@ -56,7 +57,6 @@ You can access our user stories here -> [UserStories](https://github.com/Twitter
   You can view our Product Backlog here -> [ProductBacklog](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-2/product%20backlog%20pic.png)
     
     
-## Burn-down Graph
 
 ## Milestone #4 Team Survey
 
