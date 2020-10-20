@@ -122,3 +122,16 @@ _x_ Sean Strawmatt
 _x_ Doug Mellon
 _x_ Christian Hogue
 ```
+
+### Date: 10/20/2020
+Topics Discussed:
+- Went milestone requirements for each role.
+- Discussed functionality of React at a high level.
+
+```
+_x_ Matthew Knop
+_x_ Ashley Hart
+_x_ Sean Strawmatt
+_x_ Doug Mellon
+_x_ Christian Hogue
+```
