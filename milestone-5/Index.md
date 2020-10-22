@@ -12,7 +12,7 @@ Document: [Requirements.md](https://github.com/Twitter-Clone/twitter-clone-docum
 
 ### Role: Designer - Design
 
-Goal:
+Goal: Oversee code and test completion
 
 Document: [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/Design.md)
 
