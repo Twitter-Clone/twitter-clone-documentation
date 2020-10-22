@@ -1,21 +1,20 @@
-# Milestone 4. Functionality Complete
+# Milestone 5. Functionality Complete
 
 ### Role: Project Manager - Requirements
 
 Goal: Team coordinator
 
-Document: [Requirements.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-4/Requirements.md)
+Document: [Requirements.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/Requirements.md)
 
-- Task Kanban
-- Prioritize feature requests
-- Sprint planning
-- Burn-down Graph
+- 
+- 
+
 
 ### Role: Designer - Design
 
 Goal:
 
-Document: [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-4/Design.md)
+Document: [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/Design.md)
 
 - 
 - 
@@ -24,7 +23,7 @@ Document: [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentati
 
 Goal: Write code - core features
 
-Document: [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-4/Code.md)
+Document: [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/Code.md)
 
 - Implement all user stories
 - Use test-driven workflow
@@ -35,7 +34,7 @@ Document: [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation
 
 Goal:
 
-Document: [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-4/Test.md)
+Document: [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/Test.md)
 
 - Build and test with every push  
 - Implement Test Coverage
@@ -44,7 +43,7 @@ Document: [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation
 
 Goal: 
 
-Document: [TDD.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-4/TDD.md)
+Document: [TDD.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/TDD.md)
 
 - Utilize test-driven workflow
 - Build and test with every push
