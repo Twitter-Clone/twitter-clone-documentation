@@ -6,8 +6,10 @@ Goal: Team coordinator
 
 Document: [Requirements.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/Requirements.md)
 
-- 
-- 
+- Burn down graph
+- Prioritize Features
+- Product backlog
+- Adjust project scope
 
 
 ### Role: Designer - Design
