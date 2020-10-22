@@ -13,7 +13,7 @@ Document: [Requirements.md](https://github.com/Twitter-Clone/twitter-clone-docum
 
 ### Role: Designer - Design
 
-Goal:
+Goal: Refactoring and code structure
 
 Document: [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-4/Design.md)
 
