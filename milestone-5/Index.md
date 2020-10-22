@@ -42,10 +42,12 @@ Document: [TDD.md](https://github.com/Twitter-Clone/twitter-clone-documentation/
 
 ### Role: QA Engineer- Test
 
-Goal:
+Goal: Acceptance testing
 
 Document: [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/Test.md)
 
--   
-- 
+- Measure test coverage
+- Identify unmet customer needs
+- Develop client acceptance test
+- Regression testing
 
