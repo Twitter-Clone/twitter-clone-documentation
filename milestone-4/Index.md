@@ -17,8 +17,10 @@ Goal: Refactoring and code structure
 
 Document: [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-4/Design.md)
 
-- 
-- 
+- Document Existing Design Patterns
+- Draw diagram of code structure
+- Document key APIs
+- Build import/export for data
 
 ### Role: Programmer - Code
 
