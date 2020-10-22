@@ -16,8 +16,10 @@ Goal:
 
 Document: [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/Design.md)
 
-- 
-- 
+- Implement all required features
+- Improve code structure
+- Ensure test quality
+- Measure all remaining work
 
 
 ### Role: Programmer - Code
