@@ -30,6 +30,15 @@ Document: [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation
 - Implementation cycle
 - Implement all core features
 
+### Role: Test Driven Development
+
+Goal: 
+
+Document: [TDD.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/TDD.md)
+
+- Utilize test-driven workflow
+- Build and test with every push
+
 ### Role: QA Engineer- Test
 
 Goal:
@@ -39,11 +48,3 @@ Document: [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation
 - Build and test with every push  
 - Implement Test Coverage
 
-### Role: Test Driven Development
-
-Goal: 
-
-Document: [TDD.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/TDD.md)
-
-- Utilize test-driven workflow
-- Build and test with every push
