@@ -19,6 +19,7 @@ Document: [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentati
 - 
 - 
 
+
 ### Role: Programmer - Code
 
 Goal: Write code - core features
@@ -30,6 +31,7 @@ Document: [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation
 - Implementation cycle
 - Implement all core features
 
+
 ### Role: Test Driven Development - Code
 
 Goal: 
@@ -38,6 +40,7 @@ Document: [TDD.md](https://github.com/Twitter-Clone/twitter-clone-documentation/
 
 - Utilize test-driven workflow
 - Build and test with every push
+
 
 ### Role: QA Engineer- Test
 
