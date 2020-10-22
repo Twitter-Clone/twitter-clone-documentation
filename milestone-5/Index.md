@@ -2,7 +2,7 @@
 
 ### Role: Project Manager - Requirements
 
-Goal: Team coordinator
+Goal: Project progress
 
 Document: [Requirements.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/Requirements.md)
 
