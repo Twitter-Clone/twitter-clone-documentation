@@ -14,15 +14,15 @@ Role: Project Manager- Requirements
 
 Goal: Team coordinator
 
-- Task Kanban
+- Burndown Chart
 - Prioritize feature requests
 - Sprint planning
 
-## Task Kanban
+## Burndown Chart
 
-A Task Kanban was created to track our tasks displayed in three categories: ToDo, Progress, and Done. The Task Kanban will make tracking our tasks easier. The first/top task is at highest priority and the last item is at the lowest priority. 
+A Burndown Chart was created to track our tasks displayed in three categories: ToDo, Progress, and Done. The Burndown Chart will make tracking our tasks easier. The first/top task is at highest priority and the last item is at the lowest priority. 
 
-You can access our task kanban here --> [TaskKanban](https://github.com/Twitter-Clone/twitter-clone-documentation/projects/1)
+You can access our Burndown Chart here --> [TaskKanban](https://github.com/Twitter-Clone/twitter-clone-documentation/projects/1)
 
 ## Prioritized features requests
 ### User Stories
