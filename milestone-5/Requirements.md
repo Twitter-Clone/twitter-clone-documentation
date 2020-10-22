@@ -1,4 +1,4 @@
-# Milestone 5. Test Complete- Requirements
+# Milestone 5. Test Complete - Requirements
 
 ## PROJECT INFO
 
