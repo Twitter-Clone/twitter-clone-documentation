@@ -56,6 +56,29 @@ You can access our user stories here -> [UserStories](https://github.com/Twitter
     
   You can view our Product Backlog here -> [ProductBacklog](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-2/product%20backlog%20pic.png)
 
+  ### Development Sprints
+
+1. Back-end Development
+    1. Add Python serializers for the PostReactions and CommentReplies
+    1. Add Python views for the PostReactions and CommentReplies table
+    1. Add Python tests for the new views, and test locally
+    1. Make sure the app runs locally before adding new changes
+    1. Make sure the react app runs locally without errors before deploying changes
+    1. Make sure the foreign keys are configured in the back-end
+
+1. Front-end Development
+    1. Design website for compatibility within a set of browsers and usability
+    1. Use JavaScript to take comments and reactions to messages
+    1. Use JavaScript to recieve new comments and reactions to messages
+    1. Have the json file send info for PostReactions and CommentReplies to populate tables in the database
+    1. Make sure the app runs locally before adding new changes
+    1. Make sure the react app runs locally without errors before deploying changes
+
+1. Database Tests
+    1. Make sure the database updates after every transaction made to the website
+    1. Make sure foreign keys are set up within the database to work with each other
+    1. Make sure the database can take transactions from every change to the front-end and back-end
+
 
 
 ## Milestone #5 Team Survey
