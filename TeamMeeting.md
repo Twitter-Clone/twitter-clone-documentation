@@ -135,3 +135,30 @@ _x_ Sean Strawmatt
 _x_ Doug Mellon
 _x_ Christian Hogue
 ```
+
+### Date: 10/22/2020
+Topics Discussed:
+- Discussed plan for milestones
+- Went over necessary requirements.
+  
+```
+_x_ Matthew Knop
+_x_ Ashley Hart
+_x_ Sean Strawmatt
+_x_ Doug Mellon
+_x_ Christian Hogue
+```
+
+### Date: 10/27/2020
+Topics Discussed:
+- Discussed plan for rest of week.
+- React design and routing.
+- Discussed adding more views for two other DB tables.
+
+```
+_x_ Matthew Knop
+_x_ Ashley Hart
+_x_ Sean Strawmatt
+_x_ Doug Mellon
+_x_ Christian Hogue
+```
