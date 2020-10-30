@@ -23,7 +23,7 @@ This project will utilize two microservices which are the frontend UX/UI and the
 [Matthew Knop](https://github.com/maknop)  
 [Doug Mellon](https://github.com/dougmellon)  
 [Ashley Hart](https://github.com/hart2533)  
-[Sean Strawmatt](https://github.com/sstrawmatt2)
+[Sean Strawmatt](https://github.com/sstrawmatt2)  
 [Christian Hogue](https://github.com/chogue1)
 
 ### DOCUMENTATION & MICROSERVICES  
