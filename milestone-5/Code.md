@@ -3,7 +3,7 @@
 
 ## PROJECT INFO
 
-* [Twitter-cloone](../Index.md)
+* [Twitter-clone](../Index.md)
 
 * Other Roles - [Requirements.md](Requirements.md)
 , [Design.md](Design.md)
