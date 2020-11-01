@@ -16,7 +16,7 @@
 
 * URL: https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/Code.md
 
-* Documents: twitter-colone-documentation/milestone-5
+* Documents: twitter-clone-documentation/milestone-5
 
 * Git Repo: https://github.com/Twitter-Clone/twitter-clone-documentation
 
