@@ -23,30 +23,30 @@
 * Git Repo: Twitter-Clone
 
 
-
-
 ### Milestone 5. Test Complete
 Role: QA Engineer - Test
 
 Goal: Continuous integration
 
--Work with Requirements specialist
--Identify unmet customer needs
--Develop client acceptance test
+- Work with Requirements specialist
+- Identify unmet customer needs
+- Develop client acceptance test
 
 
 
 ## Twitter-Clone - Continuous integration
 ### Work with Requirements specialist
+- Created plan to write well-rounded tests meant to ensure that core functionality  
+  is working properly. 
 
 ### Identify unmet customer needs
-
+- Develop structure of tweets and ensure that all data is pulled from database  
+  successfully by implementing tests for pulling specific data. 
+  
 ### Develop client acceptance test
-
+- Developed acceptance testing to ensure that specifications are met.
 
 ## Milestone #5 Team Survey
-
-
 ```
 Matt - (3/3 credits)
     _x_ participated in team meetings
