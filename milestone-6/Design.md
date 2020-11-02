@@ -7,3 +7,13 @@
 - File: Milestone-6/Design.md
 - URL: https://github.com/Twitter-Clone/twitter-clone-documentation/edit/master/milestone-6/Design.md 
 - Git Repo: https://github.com/Twitter-Clone
+
+Milestone 6. Release
+
+Role: Designer - Design
+
+Goal: Resolve open design issues
+
+* Assist with defect fixing
+* Assist with completion of tests
+* Ensure test quality
