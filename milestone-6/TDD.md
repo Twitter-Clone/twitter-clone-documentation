@@ -7,3 +7,11 @@
 - File: Milestone-6/TDD.md
 - URL: https://github.com/Twitter-Clone/twitter-clone-documentation/edit/master/milestone-6/TDD.md 
 - Git Repo: https://github.com/Twitter-Clone
+
+### Role: Programmer - TDD
+
+Goal: Write code - debug
+
+* Extend test cases
+* Work with burn-down graph
+* Implement regression test cases
