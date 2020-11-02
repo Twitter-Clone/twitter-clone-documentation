@@ -7,3 +7,10 @@
 - File: Milestone-6/Requirements.md
 - URL: https://github.com/Twitter-Clone/twitter-clone-documentation/edit/master/milestone-6/Requirements.md 
 - Git Repo: https://github.com/Twitter-Clone
+
+### Role: Project Manager - Requirements
+
+Goal: Issues Review
+
+* Acceptance criteria
+* Release checkpoint
