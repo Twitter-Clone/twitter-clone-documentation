@@ -3,7 +3,7 @@
 ## PROJECT INFO
 
 - Software Project Plan: SMS Twitter
-- Other Roles: [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/Design.md) , [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/Code.md), [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/Test.md)
+- Other Roles: [Design.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/Design.md) , [Code.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/Code.md), [TDD.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/Test.md), [Test.md](https://github.com/Twitter-Clone/twitter-clone-documentation/blob/master/milestone-5/Test.md)
 - File: Milestone-5/Requirements.md
 - URL: https://github.com/Twitter-Clone/twitter-clone-documentation/edit/master/milestone-5/Requirements.md 
 - Git Repo: https://github.com/Twitter-Clone
@@ -104,7 +104,7 @@ Sean - (3/3 credits)
     _x_ was cooperative
     _x_ delivered contribution
     
-Christan - (3/3 credits)
+Christian - (3/3 credits)
     _x_ participated in team meetings
     _x_ was cooperative
     _x_ delivered contribution
