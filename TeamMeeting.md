@@ -176,3 +176,17 @@ _x_ Sean Strawmatt
 _x_ Doug Mellon
 _x_ Christian Hogue
 ```
+
+### Date: 10/29/2020
+Topics Discussed:
+- Discussed roles for each member.
+- Talked about plan for this milestone.
+- Plans for incorporating sign-up/login.
+
+```
+_x_ Matthew Knop
+_x_ Ashley Hart
+_x_ Sean Strawmatt
+_x_ Doug Mellon
+_x_ Christian Hogue
+```
