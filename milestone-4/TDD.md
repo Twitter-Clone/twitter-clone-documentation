@@ -94,6 +94,8 @@ Role - Programmer - Test-Driven Development
 
 
 ##Milestone #4 Team Survey
+
+
 ```
 Matt - (3/3 credits)
     _x_ participated in team meetings
@@ -114,4 +116,9 @@ Sean - (3/3 credits)
     _x_ participated in team meetings
     _x_ was cooperative
     _x_ delivered contribution
-``` 
+    
+Christian - (3/3 credits)
+    _x_ participated in team meetings
+    _x_ was cooperative
+    _x_ delivered contribution
+```
