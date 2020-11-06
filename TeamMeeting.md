@@ -177,7 +177,7 @@ _x_ Doug Mellon
 _x_ Christian Hogue
 ```
 
-### Date: 10/29/2020
+### Date: 11/03/2020
 Topics Discussed:
 - Discussed roles for each member.
 - Talked about plan for this milestone.
