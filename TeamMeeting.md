@@ -190,3 +190,19 @@ _x_ Sean Strawmatt
 _x_ Doug Mellon
 _x_ Christian Hogue
 ```
+
+### Date: 11/05/2020
+Topics Discussed:
+- Routing troubleshooting with React.
+- Implementing the chosen design to the front-end.
+- Incorporating sign-up/login to the front-end.
+- Fixing the test cases for all posts and users in the api.
+- Adding test cases for new views.
+
+```
+_x_ Matthew Knop
+_x_ Ashley Hart
+_x_ Sean Strawmatt
+_x_ Doug Mellon
+_x_ Christian Hogue
+```
