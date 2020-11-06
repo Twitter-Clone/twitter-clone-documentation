@@ -196,7 +196,7 @@ Topics Discussed:
 - Routing troubleshooting with React.
 - Implementing the chosen design to the front-end.
 - Incorporating sign-up/login to the front-end.
-- Fixing the test cases for all posts and users in the api.
+- Fixing test case issues for all posts and users in django.
 - Adding test cases for new views.
 
 ```
