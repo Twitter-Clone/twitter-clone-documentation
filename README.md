@@ -34,8 +34,8 @@ https://github.com/Twitter-Clone/twitter-clone-frontend
 ### ROLES 
 Requirements - Project Manager  
 Design - Tech Lead  
-Code - Programmer
-TDD - Programmer
+Code - Programmer 
+TDD - Programmer  
 Test - QA Engineer  
 
 ### TOOLS
