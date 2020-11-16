@@ -206,3 +206,30 @@ _x_ Sean Strawmatt
 _x_ Doug Mellon
 _x_ Christian Hogue
 ```
+
+### Date: 11/10/2020
+Topics Discussed:
+Creating working login and signup system.
+Formatted some of our files.
+Worked on design of frontend.
+
+```
+_x_ Matthew Knop
+_x_ Ashley Hart
+_x_ Sean Strawmatt
+_x_ Doug Mellon
+_x_ Christian Hogue
+```
+
+### Date: 11/12/2020
+Topics Discussed:
+- Continued development of login and signup.
+- Fixed styling.
+
+```
+_x_ Matthew Knop
+_x_ Ashley Hart
+_x_ Sean Strawmatt
+_x_ Doug Mellon
+_x_ Christian Hogue
+```
