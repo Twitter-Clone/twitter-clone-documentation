@@ -1,0 +1,58 @@
+-src folder holds all of our 'main' files. 
+-Following.js
+    - The main purpose of this file is to just return a header that displays 'Following'. 
+
+-Home.js
+    - Home imports the components sidebar and feed. 
+    - The sidebar is being imported as a component. 
+
+-LoginForm.js
+    - The main point of this file is for the users to be able to log in. LoginForm.js essentially takes in 
+    a field for username and password, and the user puts in their information. If they do not have valid 
+    information to login, then they need to go to signup.  
+
+
+-Nav.js
+    -This file is responsible for displaying whether or not the user is logged out/in.
+    -If the user is logged out, then two options will display which are login, and signup. 
+    -If the user is logged in, then there the option to logout is displayed.
+
+-Profile.js
+    - This file is responsible for initially fetching the username from 'http://157.245.160.185:8000/tcapi/users/'
+    - Once the username is fetched, it is then converted to a string. 
+
+-Search.js
+    -This file is mainly importing multiple components, and returning a header that displays 'Hello'. 
+
+-Searchbar.js
+    -Searchbar.js is responsible for creating and seting a twitter handle for a user. The method creates
+    a twitter handle by setting it as a place holder, then sets the twitter handle to the actual twitter
+    handle value. 
+
+- Sidebar.js
+    - The sidebar imports multiple components and is routed to go to multiple links. Each link is a different
+    link to the different pages including home, profile, following, and search. 
+
+- SignupForm.js
+    - This file is very similar to LoginForm.js, but this is mainly allowing for a user to signup.
+    SignupForm takes in information and asks that the new user create a user name and password. 
+
+middleware
+-Feed.js
+    - What is used to display the main feed when logged in. Essentially gets all tweet data and displays it to the user.
+    The user can see any and all tweets that have been created by any of the other users who have used this app. 
+
+-SearchMiddleware.js
+    - Allows the user to search and find tweets by other users or to search for other users in general. 
+
+API(views.py in tcapi)
+- user_list is responsible for get, put, delete of all users in the database. 
+- all_users_by_email is responsible for searching for users by their email address. 
+- user_detail is responsible for finding a user by their userID. 
+- tweet_list is responsible for get, put, or delete all tweets. 
+- post_tweet_auth_user is mainly user authorization.
+- tweet_detail gets a specific tweet by username. 
+- postreactions_list gets all of the post reactions. 
+- postreactions_detail gets all post reactions by userID. 
+- commentreplies_list gets a list of all comment relpies. 
+- commentreplies_detail gets a specific comment by userID. 
